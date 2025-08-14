@@ -17,10 +17,6 @@ Skilled in **Terraform, Python, Bash**, focused on **Security, Scalability & Cos
 ---
 
 ## 🌱 What I’m Up To
-- 🌍 Managing and monitoring global server infrastructure  
-- 💰 Investing in my future so I don’t fall in the trap  
-![It's a Trap](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk4ZmhsdDc3cXlycWxyZXBwaG5wa3Z4ZWF1NjhrNWp2cnVrczU2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XMGIWtrHBl5e/giphy.gif)
-
+- 🌍 Managing and monitoring global server infrastructure
+- 🤖 Working on AI data research and alerting 
 ---
-
-![Retro Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrcWQ1d2JzaDk0ZjU2Y3lwYmNhNnoxN3hvb3l2bDRhNTVzaDUyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4aQ4sUHGQltKM/giphy.gif)
