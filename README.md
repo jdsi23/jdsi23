@@ -1,4 +1,3 @@
-![Cloud Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNvbTV1dG1rb2lyeWw3ZWx6M2syczh4ZDBld2djcGl3YzZ6dnhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ## 💡 About Me
 **Junior Cloud Specialist** | **Cloud Automation • DevOps • AI**  
