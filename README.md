@@ -1,5 +1,3 @@
-# 🌩️ James Lusk  
-
 ![Cloud Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNvbTV1dG1rb2lyeWw3ZWx6M2syczh4ZDBld2djcGl3YzZ6dnhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 **🚀 Junior Cloud Specialist | AWS & Azure Enthusiast**  
@@ -17,6 +15,3 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 
----
-
-![Retro Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrcWQ1d2JzaDk0ZjU2Y3lwYmNhNnoxN3hvb3l2bDRhNTVzaDUyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4aQ4sUHGQltKM/giphy.gif)
