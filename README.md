@@ -1,9 +1,8 @@
 ![Cloud Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNvbTV1dG1rb2lyeWw3ZWx6M2syczh4ZDBld2djcGl3YzZ6dnhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
 
-**🚀 Junior Cloud Specialist | AWS & Azure Enthusiast**  
-☁️ **Cloud Automation • DevOps • AI Integration**  
-🔧 **Terraform • Python • Bash • IaC**  
-🛡️ **Security • Scalability • Cost Efficiency**  
+## 💡 About Me
+**Junior Cloud Specialist** | **Cloud Automation • DevOps • AI**  
+Skilled in **Terraform, Python, Bash**, focused on **Security, Scalability & Cost Efficiency**  
 
 ---
 
@@ -15,3 +14,13 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 
+---
+
+## 🌱 What I’m Up To
+- 🌍 Managing and monitoring global server infrastructure  
+- 💰 Investing in my future so I don’t fall in the trap  
+![It's a Trap](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk4ZmhsdDc3cXlycWxyZXBwaG5wa3Z4ZWF1NjhrNWp2cnVrczU2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XMGIWtrHBl5e/giphy.gif)
+
+---
+
+![Retro Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrcWQ1d2JzaDk0ZjU2Y3lwYmNhNnoxN3hvb3l2bDRhNTVzaDUyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4aQ4sUHGQltKM/giphy.gif)
