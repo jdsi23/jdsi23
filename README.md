@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @jdsi23
-- 👀 I’m interested in Technology 
-- 🌱 I’m currently learning Cloud Computing
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I Love Star Wars
+# 🌩️ James Lusk  
 
-<!---
-jdsi23/jdsi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Cloud Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNvbTV1dG1rb2lyeWw3ZWx6M2syczh4ZDBld2djcGl3YzZ6dnhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
+
+**🚀 Junior Cloud Specialist | AWS & Azure Enthusiast**  
+☁️ **Cloud Automation • DevOps • AI Integration**  
+🔧 **Terraform • Python • Bash • IaC**  
+🛡️ **Security • Scalability • Cost Efficiency**  
+
+---
+
+## 🛠️ Tech I Work With
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+
+---
+
+![Retro Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrcWQ1d2JzaDk0ZjU2Y3lwYmNhNnoxN3hvb3l2bDRhNTVzaDUyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4aQ4sUHGQltKM/giphy.gif)
